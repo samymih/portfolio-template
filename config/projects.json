@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "category": {
+        "name": "react",
+        "icon": "<SiReact />",
+        "color": "#61DAFB",
+        "link": "https://github.com/username/react-project"
+      },
+      "name": "Portfolio React",
+      "description": "Portfolio personnel développé avec React et TypeScript, incluant un système de thèmes et des animations fluides.",
+      "image": "/images/portfolio-react.jpg"
+    },
+    {
+      "category": {
+        "name": "next.js",
+        "icon": "<SiNextdotjs />", 
+        "color": "#000000",
+        "link": "https://github.com/username/nextjs-ecommerce"
+      },
+      "name": "E-commerce Next.js",
+      "description": "Application e-commerce complète avec Next.js, authentification, paiements Stripe et dashboard admin.",
+      "image": "/images/ecommerce-nextjs.jpg"
+    },
+    {
+      "category": {
+        "name": "typescript",
+        "icon": "<SiTypescript />",
+        "color": "#3178C6", 
+        "link": "https://github.com/username/typescript-api"
+      },
+      "name": "API TypeScript",
+      "description": "API REST robuste en TypeScript avec Express, validation des données et documentation Swagger.",
+      "image": "/images/api-typescript.jpg"
+    },
+    {
+      "category": {
+        "name": "express",
+        "icon": "<SiExpress />",
+        "color": "#339933",
+        "link": "https://github.com/username/express-blog"
+      },
+      "name": "Blog Engine",
+      "description": "Moteur de blog avec Express.js, système d'authentification JWT et éditeur markdown intégré.",
+      "image": "/images/blog-express.jpg"
+    },
+    {
+      "category": {
+        "name": "ruby",
+        "icon": "<SiRuby />",
+        "color": "#CC342D",
+        "link": "https://github.com/username/ruby-scraper"
+      },
+      "name": "Web Scraper",
+      "description": "Script Ruby pour scraper et analyser des données web avec Nokogiri et export CSV/JSON.",
+      "image": "/images/scraper-ruby.jpg"
+    },
+    {
+      "category": {
+        "name": "ue5",
+        "icon": "<SiUnrealengine />",
+        "color": "#0E1128",
+        "link": "https://github.com/username/ue5-game"
+      },
+      "name": "Jeu Unreal Engine 5",
+      "description": "Prototype de jeu 3D développé avec Unreal Engine 5, mechanics de platformer et environnements stylisés.",
+      "image": "/images/game-ue5.jpg"
+    }
+  ]
+}

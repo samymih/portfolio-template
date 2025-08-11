@@ -1,0 +1,61 @@
+{
+  "footer": {
+    "rightLink": {
+      "icon": "github",
+      "name": "hehehe",
+      "url": "https://github.com/username"
+    },
+    "leftLink": {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/username"
+    }
+  },
+  "about": {
+    "contacts": {
+      "email": "your.email@example.com",
+      "phone": "+33 6 12 34 56 78",
+      "discord": {
+        "id": "your.discord.id",
+        "name": "your.discord.name"
+      }
+    }
+  },
+  "contact": {
+    "contacts": {
+      "email": "your.email@example.com",
+      "phone": "+33 6 12 34 56 78",
+      "discord": {
+        "id": "your.discord.id",
+        "name": "your.discord.name"
+      }
+    },
+    "find_me": {
+      "text": "Find me on",
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/username"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/username"
+        }
+      ]
+    },
+    "webhook": {
+      "discord": "https://ptb.discord.com/api/webhooks/1230149460429115483/8JUsSt50vJKg3HkUFdkbl8w3y8MvQfViv0TcJpvpPbhZp77hl0QYayEImcPWNb1xHpWh"
+    }
+  },
+  "hero": {
+    "name": "Your Name",
+    "subtitle": "Your Subtitle",
+    "cta": {
+      "parenthesis": "// Find Me On",
+      "name": "exampleLink",
+      "link": "https://example.com"
+    }
+  },
+  "navbar": {
+    "name": "Your Name"
+  }
+}

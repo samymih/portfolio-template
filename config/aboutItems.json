@@ -1,0 +1,28 @@
+{
+  "about": [
+    {
+      "title": "bio",
+      "color": "#4A90E2",
+      "items": [
+        { "title": "intro" },
+        { "title": "parcours" }
+      ]
+    },
+    {
+      "title": "skills",
+      "color": "#7ED321", 
+      "items": [
+        { "title": "frontend" },
+        { "title": "backend" }
+      ]
+    },
+    {
+      "title": "hobbies",
+      "color": "#F5A623",
+      "items": [
+        { "title": "gaming" },
+        { "title": "tech" }
+      ]
+    }
+  ]
+}

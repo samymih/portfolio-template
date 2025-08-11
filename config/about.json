@@ -1,0 +1,34 @@
+{
+  "about": [
+    {
+      "category": "bio",
+      "title": "intro",
+      "content": "// Bienvenue sur mon portfolio\n\nconst developer = {\n  name: 'Votre Nom',\n  age: 25,\n  location: 'France',\n  passion: 'Développement web & mobile',\n  currentFocus: 'React, Next.js, TypeScript'\n};\n\nconsole.log('Passionné par le code !');"
+    },
+    {
+      "category": "bio",
+      "title": "parcours",
+      "content": "// Mon parcours professionnel\n\nconst experience = {\n  formation: 'Informatique',\n  yearsOfExperience: 3,\n  specialities: [\n    'Développement Frontend',\n    'Applications React',\n    'APIs REST',\n    'UI/UX Design'\n  ]\n};\n\n// Toujours en apprentissage continu"
+    },
+    {
+      "category": "skills",
+      "title": "frontend",
+      "content": "// Technologies Frontend\n\nconst frontendSkills = {\n  frameworks: ['React', 'Next.js', 'Vue.js'],\n  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],\n  styling: ['Tailwind CSS', 'Styled Components', 'SCSS'],\n  tools: ['Webpack', 'Vite', 'ESLint', 'Prettier']\n};\n\n// Création d'interfaces modernes et réactives"
+    },
+    {
+      "category": "skills",
+      "title": "backend",
+      "content": "// Technologies Backend\n\nconst backendSkills = {\n  runtime: ['Node.js', 'Express.js'],\n  databases: ['MongoDB', 'PostgreSQL', 'Redis'],\n  languages: ['JavaScript', 'TypeScript', 'Ruby'],\n  tools: ['Docker', 'Nginx', 'PM2']\n};\n\n// APIs robustes et sécurisées"
+    },
+    {
+      "category": "hobbies",
+      "title": "gaming",
+      "content": "// Passion Gaming\n\nconst gamingLife = {\n  genres: ['FPS', 'RPG', 'Strategy', 'Indie'],\n  platforms: ['PC', 'Console'],\n  gameEngine: 'Unreal Engine 5',\n  currentProject: 'Développement de mini-jeux',\n  inspiration: 'Créer des expériences immersives'\n};\n\n// Le gaming inspire ma créativité"
+    },
+    {
+      "category": "hobbies",  
+      "title": "tech",
+      "content": "// Veille Technologique\n\nconst techInterests = {\n  areas: ['Web3', 'IA/ML', 'DevOps', 'Mobile'],\n  learning: ['React Native', 'GraphQL', 'Docker'],\n  blogs: ['dev.to', 'Medium', 'Stack Overflow'],\n  communities: ['Discord', 'GitHub', 'Twitter']\n};\n\n// Toujours à l'affût des nouvelles tendances"
+    }
+  ]
+}
