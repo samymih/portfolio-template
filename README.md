@@ -103,4 +103,3 @@ Fork, branch, commit, push, and open a PR.
 ---
 
 ⭐ **If this project helps you, consider giving it a star!**
-# portfolio-template
