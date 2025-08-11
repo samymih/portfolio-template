@@ -126,8 +126,8 @@ button.onclick = () => {
   const data = contacts?.find_me?.links || [];
   const contactData = [
     {
-      title: contacts?.contacts?.email || "contact@sopow.fr",
-      link: `mailto:${contacts?.contacts?.email || "contact@sopow.fr"}`,
+      title: contacts?.contacts?.email || "contact@exemple.fr",
+      link: `mailto:${contacts?.contacts?.email || "contact@exemple.fr"}`,
       icon: <RiMailFill />,
     },
     {

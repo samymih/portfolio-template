@@ -44,7 +44,7 @@ export default function Navbar({ page, setPage }) {
   }
 
   // Valeur par défaut si la configuration n'est pas encore chargée
-  const navbarName = config?.navbar?.name || "sopow";
+  const navbarName = config?.navbar?.name || "Your Name";
 
   return (
     <div className="components-container navbar flex">
